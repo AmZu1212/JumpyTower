@@ -27,27 +27,24 @@ Below are media assets demonstrating the development and features of *JumpyTower
 1. **Main Menu Screenshot**:
    - A static image showcasing the polished and user-friendly main menu design.
 
-   *Paste the main menu image here*
+   ![Title Screen](https://github.com/user-attachments/assets/8326cf69-373e-4e06-ac6e-b3243b902fd3)
+
 
 2. **Platformer Gameplay Demo**:
    - A video showcasing the separate 2D platformer game with engaging mechanics and creative level design.
-
-   *Paste the platformer gameplay demo video here*
+https://youtu.be/_ZcUuiJLm0c
 
 3. **Icy Tower V1 (Old Demo)**:
    - An early prototype demonstrating the foundational mechanics and gameplay of *JumpyTower*.
-
-   *Paste the Icy Tower V1 demo video here*
+https://youtu.be/_NqNAZk8kIQ
 
 4. **Icy Tower V2 (Current Version)**:
    - The latest version of *JumpyTower*, highlighting improved mechanics, visuals, and overall gameplay.
-
-   *Paste the Icy Tower V2 demo video here*
+https://youtu.be/kzntFUxbKnc
 
 5. **Testing Playground Demo**:
    - A demonstration of a testing playground used for debugging and refining mechanics.
-
-   *Paste the testing playground demo video here*
+https://youtu.be/qmd9GtnX_Q0
 
 ---
 
