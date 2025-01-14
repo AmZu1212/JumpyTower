@@ -42,22 +42,20 @@ Below are media assets demonstrating the development and features of *JumpyTower
 1. **Platformer Gameplay Demo**:
    
    [![Platformer Gameplay Demo](https://img.youtube.com/vi/_ZcUuiJLm0c/0.jpg)](https://youtu.be/_ZcUuiJLm0c)
-   
 
-2. **Icy Tower V1 (Old Demo)**:
+   
+2. **Icy Tower V2 (Current Version)**:
+   
+   [![Icy Tower V2 Demo](https://img.youtube.com/vi/kzntFUxbKnc/0.jpg)](https://youtu.be/kzntFUxbKnc)
+
+
+3. **Testing Playground Demo**:
+    
+   [![Testing Playground Demo](https://img.youtube.com/vi/qmd9GtnX_Q0/0.jpg)](https://youtu.be/qmd9GtnX_Q0)
+
+   
+4. **Icy Tower V1 (Old Demo)**:
    
    [![Icy Tower V1 Demo](https://img.youtube.com/vi/_NqNAZk8kIQ/0.jpg)](https://youtu.be/_NqNAZk8kIQ)
    
-
-3. **Icy Tower V2 (Current Version)**:
-   
-   [![Icy Tower V2 Demo](https://img.youtube.com/vi/kzntFUxbKnc/0.jpg)](https://youtu.be/kzntFUxbKnc)
-   
-
-4. **Testing Playground Demo**:
-    
-   [![Testing Playground Demo](https://img.youtube.com/vi/qmd9GtnX_Q0/0.jpg)](https://youtu.be/qmd9GtnX_Q0)
-   
-
 ---
-
